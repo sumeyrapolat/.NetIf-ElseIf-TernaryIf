@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\if-else-ternaryif\bin\Debug\net8.0\if-else-ternaryif.exe
+C:\Users\sumey\Source\repos\if-else-ternaryif\bin\Debug\net8.0\if-else-ternaryif.deps.json
+C:\Users\sumey\Source\repos\if-else-ternaryif\bin\Debug\net8.0\if-else-ternaryif.runtimeconfig.json
+C:\Users\sumey\Source\repos\if-else-ternaryif\bin\Debug\net8.0\if-else-ternaryif.dll
+C:\Users\sumey\Source\repos\if-else-ternaryif\bin\Debug\net8.0\if-else-ternaryif.pdb
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.dll
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\refint\if-else-ternaryif.dll
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.pdb
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\if-else-ternaryif.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\if-else-ternaryif\obj\Debug\net8.0\ref\if-else-ternaryif.dll
